@@ -68,32 +68,6 @@ void main()
       
 
    }
-   
-  /* if(moves[num]==-1)
-   {
-      pos++;
-      printf("you are at %d\n",pos);
-      h=start();   
-   }
-   else if(num==4||num==9||num==20||num==28||num==40||num==51||num==63||num==71)
-   {
-      printf("you took a ladder\n");
-      pos=num;
-      printf("you are at %d\n",pos);
-      h=start();
-   }
-   else if(num==17||num==62||num==64||num==99||num==95||num==93||num==87||num==54)
-   {
-       printf("oppss!! snake bite");
-       pos=num;
-       printf("you are at %d\n",pos);
-       h=start();
-   }
-   else
-   {
-       exit(0);
-   } */
- 
 }
 int start()
 {
